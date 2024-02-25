@@ -34,12 +34,11 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-### Skills
-
 
 
 ###
 <br>
+
 
 
 <div>
