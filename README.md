@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">✨ A Full Time Sleeper <br>🎯 Working On ___.<br>🎲 I Love To Sleep And Snore</p>
+<p align="left">✨A UI/UX Designer,</p>
 
 ###
 <br>
