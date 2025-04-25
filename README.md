@@ -1,22 +1,15 @@
 <h1 align="center">Yo Hoo Hoo</h1>
-<h3 align="center">Guess who's back!</h3>
 
 ###
+<p align="left">✨ UI/UX Design with Cloud</p>
+<p align="left"><b>>_ I use Arch BTW!</b></p>
 
-<h3 align="left">I Am</h3>
-
-###
-
-<p align="left">✨A UI/UX Designer,</p>
 
 ###
 <br>
 
-<h3 align="left">I code with</h3>
-
-###
-
-<div align="left">
+<div>
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -34,13 +27,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-
-
 ###
-<br>
-
-
-
-<div>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qxbrown&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
