@@ -1,7 +1,7 @@
 <h1 align="center">Yo Hoo Hoo</h1>
 
 ###
-<p align="left">✨ UI/UX Design with Cloud</p>
+<p align="left">✨ UI/UX Design & Linux</p>
 <p align="left"><b>>_ I use Arch BTW!</b></p>
 
 
